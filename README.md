@@ -247,6 +247,7 @@ Modeling: Star schema with fact/dimension tables
 DAX for measures & calculated tables
 
 Custom visuals: native Power BI visuals (no marketplace visuals required)
+
 🚧 Possible Improvements
 
 Add RLS (Row Level Security) by department or region
@@ -261,11 +262,9 @@ Add tooltips pages for deeper hover insights
 
 👤 Author
 
-Name: Aravindteja Prabha
-Role: Aspiring Data Analyst / BI Developer
+👤 BASTIPADU ARAVINDTEJA Aspiring Data Analyst
+📧 Contact: aravindtejaprabha@gmail.com,9515748927
+🌐 GitHub: itsmeprabha75
+🌐Linkedin: www.linkedin.com/in/aravintejaprabha75
 
 If you liked this project or have feedback, feel free to connect with me on LinkedIn or open an issue / PR in this repo. 😊
-
-Date[Date] 1 ─── * (inactive/active) to various date fields (Project start/end, milestone dates, etc.)
-
-All relationships are single-direction, except where needed for specific measures using USERELATIONSHIP.
